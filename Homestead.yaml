@@ -11,6 +11,8 @@ folders:
 sites:
     - map: homestead.app
       to: /home/vagrant/Code/Project/public
+    - map: guestbook.app
+      to: /home/vagrant/Code/guestbook/public  
 
 databases:
     - homestead
